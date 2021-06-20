@@ -7,8 +7,8 @@
     display: flex;
     align-items: center;
     background-color: #f6f6f6;
-    height: 39px;
-    padding: 10x;
+    height: 30px;
+    padding: 5px;
 }
 .sidebar__searchContainer{
     display: flex;
@@ -30,8 +30,8 @@
 .sidebar__header{
     display: flex;
     justify-content: space-between;
-    padding: 20px;
-    border-right: 1px solid lightgray;
+    padding: 5px;
+    border-right: 1px solid rgb(196, 193, 193);
 }
 
 .sidebar_headerRight{
